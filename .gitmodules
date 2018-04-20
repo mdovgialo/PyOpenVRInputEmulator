@@ -1,0 +1,3 @@
+[submodule "pyopenvrinputemu/OpenVR-InputEmulator"]
+	path = pyopenvrinputemu/OpenVR-InputEmulator
+	url = https://github.com/matzman666/OpenVR-InputEmulator.git
