@@ -1,0 +1,10 @@
+.vs
+.idea
+*.egg-info
+OpenVR-InputEmulator
+
+*.pyc
+__pycache__
+build
+Debug
+x64
