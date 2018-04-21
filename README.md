@@ -5,6 +5,8 @@ To use:
 
 Drop the unpacked release .zip into your python package/script location.
 
+Requires pyopenvr https://github.com/cmbruns/pyopenvr and https://github.com/matzman666/OpenVR-InputEmulator 1.3
+
 run SteamVR then you can use this example script:
 Position will be set relative to the main Lighthouse.
 ```
