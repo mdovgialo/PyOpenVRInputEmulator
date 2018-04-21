@@ -3,7 +3,7 @@ Minimal "just works" wrapper for https://github.com/matzman666/OpenVR-InputEmula
 
 To use:
 
-Drop into your python package/script location.
+Drop the unpacked release .zip into your python package/script location.
 
 run SteamVR then you can use this example script:
 Position will be set relative to the main Lighthouse.
